@@ -724,7 +724,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f1c30f', end
   font-size: 21px;
 }
 .footer {
-  width: 980px;
+  max-width: 1200px;
   margin: 0 auto;
   padding: 20px 0 20px 0;
   position: relative;  
