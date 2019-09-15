@@ -559,7 +559,7 @@ cursor: pointer;
   margin: 60px auto;
 }
 .wie-make {
-  width: 650px;
+  max-width: 1050px;
   margin: 0 auto;  
 
 }
